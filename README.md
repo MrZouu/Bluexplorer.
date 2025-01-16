@@ -1,6 +1,6 @@
 # Bluexplorer.
 Underwater Surveillance and Experimentation Vehicle Prototype.
-\nThis project focuses on the design and development of a low-cost underwater vehicle prototype for research and monitoring purposes.
+This project focuses on the design and development of a low-cost underwater vehicle prototype for research and monitoring purposes.
 
 <br/>
 
