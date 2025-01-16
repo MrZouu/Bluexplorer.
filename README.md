@@ -1,7 +1,8 @@
 # Bluexplorer.
+<p>
 Underwater Surveillance and Experimentation Vehicle Prototype.
 This project focuses on the design and development of a low-cost underwater vehicle prototype for research and monitoring purposes.
-
+</p>
 <br/>
 
 ⚠️This project is the result of a common work, made for school with a deadline and we chose to leave it as it was at the time of submission.
@@ -33,8 +34,8 @@ The STL files for the case and the cover can be found in the STL directory :
 #  The Submarine
 
 #  Credits
-* [**Lorenzo**](https://github.com/MrZouu) : Co-creator of the project.
-* [**Mathéo**](https://github.com/sc0pziion) : Co-creator of the project.
+* [**Lorenzo M**](https://github.com/MrZouu) : Co-creator of the project.
+* [**Mathéo P**](https://github.com/sc0pziion) : Co-creator of the project.
 * [**Corentin Hu**](https://github.com/cohru) : Co-creator of the project.
 * [**Clement Auray**](https://github.com/Clementauray) : Co-creator of the project.
 * [**Evann Ali-Yahia**](https://github.com/EvannAyh) : Co-creator of the project.
