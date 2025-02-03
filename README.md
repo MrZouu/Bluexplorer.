@@ -39,5 +39,5 @@ The STL files for the case and the cover can be found in the STL directory :
 * [**Corentin Hu**](https://github.com/cohru) : Co-creator of the project.
 * [**Clement Auray**](https://github.com/Clementauray) : Co-creator of the project.
 * [**Evann Ali-Yahia**](https://github.com/EvannAyh) : Co-creator of the project.
+* [**Emma Vidilla**](http://github.com/emma-ryck) : Co-creator of the project.
 * **Rémi Gilbaut** : Co-creator of the project.
-* **Emma Vidilla** : Co-creator of the project.
