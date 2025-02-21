@@ -35,7 +35,7 @@
 ### Python Libraries
 * [**OpenCV**](https://opencv.org/) - Computer vision library  
 * [**RPi.GPIO**](https://pypi.org/project/RPi.GPIO/) - Raspberry Pi GPIO control  
-* [**ms5837**](https://pypi.org/project/ms5837/) - Library for the MS5837 pressure sensor  
+* [**ms5837**](https://github.com/bluerobotics/BlueRobotics_MS5837_Library) - Library for the MS5837 pressure sensor  
 * [**lsm9ds1**](https://pypi.org/project/adafruit-circuitpython-lsm9ds1/) - IMU sensor driver  
 * [**spidev**](https://pypi.org/project/spidev/) - SPI interface for Raspberry Pi
 
@@ -227,7 +227,7 @@ Run `bluecode.py` on the Raspberry Pi:
 ```
 You should get video feedback as below, and the controls should activate the motors of the drone.
 
-<p align="center"><b>Sliced view of the 3D endcap</b></p>
+<p align="center"><b>Interface</b></p>
 <p align="center">
 	<img src="bluexplorer/raspberry_vnc_viewer.png" width="700">
 </p>
